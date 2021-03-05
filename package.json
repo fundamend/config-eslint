@@ -2,8 +2,8 @@
 	"name": "@fundamend/config-eslint",
 	"version": "0.0.0",
 	"dependencies": {
-		"eslint-config-prettier": "^6.11.0",
-		"eslint-plugin-jest": "^23.13.2"
+		"eslint-config-prettier": "^8.1.0",
+		"eslint-plugin-jest": "^24.1.5"
 	},
 	"devDependencies": {
 		"@fundamend/config-lint-staged": "^0.0.0",
@@ -12,7 +12,7 @@
 		"eslint": "^7.2.0",
 		"lint-staged": "^10.2.11",
 		"prettier": "^2.0.5",
-		"remark-cli": "^8.0.0",
+		"remark-cli": "^9.0.0",
 		"rimraf": "^3.0.2"
 	},
 	"license": "MIT",
