@@ -1,6 +1,6 @@
 {
 	"name": "@fundamend/config-eslint",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"dependencies": {
 		"eslint-config-prettier": "^8.1.0",
 		"eslint-plugin-jest": "^24.1.5"
