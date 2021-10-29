@@ -20,7 +20,7 @@ In your [.eslintrc.js], import _config-eslint_ and spread it into the exported o
 const config = require('@fundamend/config-eslint');
 
 module.exports = {
-	...config,
+	...config
 };
 ```
 
@@ -32,8 +32,8 @@ const config = require('@fundamend/config-eslint');
 module.exports = {
 	...config,
 	rules: {
-		'no-console': 1,
-	},
+		'no-console': 1
+	}
 };
 ```
 
